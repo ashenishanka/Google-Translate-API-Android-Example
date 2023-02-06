@@ -1,0 +1,12 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(ãÊ§Ëşÿÿÿÿ8‹ÿÂªâ0
+}
+java:S1450"[Remove the "btnTranslate" field and declare it as a local variable in the relevant methods.(ä“÷şÿÿÿÿ8¹ÿÂªâ0
+d
+java:S1854&"BRemove this useless assignment to local variable "translatedText".(»®¹íÿÿÿÿÿ8§äáªâ0
+S
+java:S1874$"1Remove this use of "setApiKey"; it is deprecated.(ê«´½ûÿÿÿÿ8©äáªâ0
+U
+java:S1481&"3Remove this unused "translatedText" local variable.(»®¹íÿÿÿÿÿ8ªäáªâ0
+Osecrets:S6334"/Make sure this Google API Key is not disclosed.(Å–ÏŞ8ÀéÂªâ0
